@@ -1,8 +1,8 @@
-[![sk5s site](https://upload.cc/i1/2022/01/22/dUIc8A.png)](https://sk5s.cyou/)
+[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-project-bar.png)](https://sk5s.cyou/)
 
-jsolink是sk5s project的一部份。
+這是 sk5s project 下的 jsolink 計畫。
 
-[![sk5s site](https://upload.cc/i1/2021/10/29/dVn6TN.png)](https://sk5s.cyou/)
+[![sk5s site](https://sk5s.cyou/sk5s/img/sk5s-site.png)](https://sk5s.cyou/)
 
 [sk5s project github](https://git.io/sk5s-github)
 <!-- 
